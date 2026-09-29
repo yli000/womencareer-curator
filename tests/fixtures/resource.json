@@ -1,0 +1,19 @@
+{
+  "id": "001",
+  "slug": "remote-work-hunter",
+  "name": "Remote Job Hunter",
+  "nameZh": "远程工作自动抓取工具",
+  "shortDescriptionZh": "一个给你找远程工作的 skill, 由 巫门 women career 研发",
+  "tagsZh": ["工作", "远程工作", "skill"],
+  "typeZh": "找工作",
+  "shortDescription": "A remote Work Hunter skill developing by womencareer",
+  "category": "Tool",
+  "tags": ["Free", "Career", "skill", "Remote"],
+  "region": "Global",
+  "type": "Jobs",
+  "language": ["English", "Chinese"],
+  "cost": "Free",
+  "status": "Active",
+  "officialUrl": "https://www.npmjs.com/package/remote-job-hunter?activeTab=readme",
+  "featured": false
+}

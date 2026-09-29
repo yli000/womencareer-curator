@@ -1,0 +1,21 @@
+{
+  "name": "womencareer-curator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "巫门资源收集、核实、人工审批与发布技能包",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:network": "node scripts/test-network.mjs"
+  },
+  "dependencies": {
+    "@notionhq/client": "2.3.0",
+    "cheerio": "1.1.2",
+    "fast-xml-parser": "5.5.1",
+    "ipaddr.js": "2.2.0",
+    "json5": "2.2.3",
+    "typescript": "5.8.3",
+    "zod": "3.25.76"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "巫门资源编辑"
+  short_description: "收集并核实女性职业资源，在现有 Notion 中提交审批并发布已确认内容"
+  default_prompt: "请使用 $womencareer-curator 收集并核实适合巫门网站的资源，保存到现有 Notion 资源库供人工审批。"
